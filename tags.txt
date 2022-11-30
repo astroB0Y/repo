@@ -149,9 +149,9 @@ acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SETANTA SPORTS 1080  7206
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1  fd0a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1  fd0a
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 UHD  6636
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1 UHD  6636
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,#Ellas 720  71e9
 acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
@@ -159,5 +159,5 @@ acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" ,tdp 1080  5a27
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,LA 1 1080  b41d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1 1080  b41d
 acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
